@@ -9,12 +9,12 @@ variable "aws_user" {
 }
 
 variable "aws_my-pairs" {
-  description = "Name of your key"
+  description = "Name to your key"
   type = string
 }
 
 variable "aws_path_to_your_public_key" {
-  description = "Path of your SSH public key"
+  description = "Path to your SSH public key"
   type    = string
 }
 
