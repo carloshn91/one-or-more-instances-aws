@@ -36,7 +36,7 @@ Terraform v0.14.2
 | aws_region  	| Region to be used  	| string  	| Yes |
 | aws_user  	|  AWS user to be used (found in ~/.aws/credentials) 	| string  	| Yes |
 | aws_my-pairs  	|  Name of your key 	| string  	| Yes |
-| aws_path_to_your_public_key  	| Path of your SSH public key  	| string  	| Yes |
+| aws_path_to_your_public_key  	| Path to your SSH public key  	| string  	| Yes |
 | aws_sg_name  	| Security Group Name  	| string  	| Yes |
 | aws_instance-count  	| Number of instances to be created  	| number  	| Yes |
 | aws_your_ami  	| Identification of the AMI to be used  	| string  	| Yes |
