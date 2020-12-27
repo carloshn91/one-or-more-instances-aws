@@ -2,6 +2,8 @@
 
 Simple project to create one or more instances on AWS using the Terraform.
 
+Advisable to use the same in Development environments, but nothing that a modification does not solve to put it in Production ;)
+
 ## Terraform Version
 
 Terraform v0.14.2
